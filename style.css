@@ -196,6 +196,20 @@ section.conquistas{
     padding: 20px 0;
 }
 
+.conquista-single img{
+    max-width: 100%;
+}
+
+.conquista-single img{
+    filter: grayscale(100%);
+    transform:scale(1,1);
+    transform: 1s;
+}
+.conquista-single img:hover{
+    transform:scale(1.1,1.1);
+    filter: grayscale(0);
+    
+}
 /* Aqui começa a pagina de informática */
 .container-info {
     background-color: #F8F8FF;
@@ -240,6 +254,34 @@ section.conquistas{
     color: #124265;
 
 }
+
+/* Sobre 2 */
+
+section .sobre2{
+    padding: 40px 0;
+}
+
+.sobre2-img{
+    width: 50%;
+    padding: 0 50px;
+}
+
+.sobre2-img img{max-width: 100%;}
+
+.sobre2-empresa{
+    width: 50%;
+}
+
+.sobre2-empresa h2{
+    color: #124265;
+    margin-bottom: 20px;
+}
+.sobre2-empresa p{
+    color: #444;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
 
 /* rodape */
 
