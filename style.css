@@ -198,7 +198,10 @@ section.conquistas{
 
 .conquista-single img{
     max-width: 100%;
+    width: 50%;
 }
+
+
 
 .conquista-single img{
     filter: grayscale(100%);
