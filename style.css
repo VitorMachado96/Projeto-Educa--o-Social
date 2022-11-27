@@ -318,6 +318,7 @@ section .sobre2{
 
 }
 
-/* Pagina de admistração */
-
+.clearfix {
+    background: #F8F8FF
+}
 
