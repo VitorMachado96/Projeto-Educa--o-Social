@@ -322,3 +322,19 @@ section .sobre2{
     background: #F8F8FF
 }
 
+.contatos-pagina{
+    text-align: center;
+
+}
+
+.contatos-pagina p {
+    font-size: 18px;
+    color: #124265;
+    padding: 2px;
+    margin: 4px;
+}
+
+.contatos-pagina img{
+    width: 30px;
+    padding: 2px;
+}
